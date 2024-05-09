@@ -213,6 +213,18 @@ nav .mobile_menu_btn i {
   letter-spacing: 2px;
   font-weight: normal;
 }
+.cont4 h2 {
+  color: #ffffff;
+  font-family: "Inter", sans-serif;
+  font-size: 25px;
+  letter-spacing: 2px;
+  font-weight: normal;
+  text-align: center;
+}
+.cont4 span{
+  color: red;
+}
+
 .cont4 p {
   color: white;
   font-family: "Inter", sans-serif;
@@ -263,6 +275,7 @@ nav .mobile_menu_btn i {
   border: none;
   font-size: 16px;
   padding: 7px;
+  height: 100px;
   margin-top: 5px;
   caret-color: #fff; /*input text cursor color change*/
   outline: none; /*input focus disable*/
